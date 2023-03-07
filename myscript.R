@@ -1,5 +1,7 @@
 mydata = read.csv("example_data.csv")
 
+
+##########
 # some guesses for the parameters.
 p1 = 1
 p2 = 0.2
